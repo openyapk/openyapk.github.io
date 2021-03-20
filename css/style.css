@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #358f39;
+}
+
+.imgav {
+    position: relative;
+    top: 12px;
+}
+
+#apknew {
+    position: relative;
+    width: 100px;
+    height: 130px;
+    border-radius: 10px;
+    background: #caf7e3;
+    float: left;
+    margin: 0 15px 15px 0;
+    text-align: center;
+    padding: 10px;
+    color: #358f39;
+}
+
+
+.avatarapk {
+   position: relative;
+   width: 100px;
+}
+
+.dowloadavapk {
+    position: relative;
+    width: 100px;
+    
+}
+
+.dowloadnameapk {
+    position: relative;
+    bottom: 90px;
+    left: 100px;
+}
+
+.dowload {
+    position: relative;
+    background-color: #358f39;
+    color: white;
+    border: none;
+    outline: none;
+    width: 300px;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 3px;
+    bottom: 50px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #358f39;
+}

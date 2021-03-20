@@ -62,3 +62,7 @@ a {
     text-decoration: none;
     color: #358f39;
 }
+
+html {
+    overflow: hidden;
+}
